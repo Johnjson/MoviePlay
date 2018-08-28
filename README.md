@@ -7,3 +7,9 @@
 4.屏幕滑动亮度调控
 5.屏幕滑动音量调控
 6.wifi切换提示
+
+Step 1. Add the dependency
+
+	dependencies {
+	        implementation 'com.github.Johnjson:MoviePlayDome:v1.0.0'
+	}
