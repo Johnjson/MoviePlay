@@ -12,5 +12,5 @@
 Step 1. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Johnjson:MoviePlayDome:v1.0.0'
+	        implementation 'com.github.Johnjson:MoviePlay:v1.0.0'
 	}
